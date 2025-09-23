@@ -1,0 +1,70 @@
+leftnav:
+- identifier: 5273b80e-88bf-788a-8bee-0945f8ab94e9
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 65657ac0-ab58-4e98-f069-a597fc96dbbb
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: e53c3ff8-af65-09bc-0f16-45111c849df9
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: c1a47dff-f722-8b6f-fc3f-937641d533ea
+  name: Out of the Classroom, Into the City
+  pageRef: /pages/instructor-insights/out-of-the-classroom-into-the-city
+  parent: e53c3ff8-af65-09bc-0f16-45111c849df9
+  weight: 40
+- identifier: eba111e0-96a5-a700-7231-9c36b4260952
+  name: Walking Tours
+  pageRef: /pages/instructor-insights/walking-tours
+  parent: e53c3ff8-af65-09bc-0f16-45111c849df9
+  weight: 50
+- identifier: c4642a85-5710-46e2-e204-acf1fed44ba2
+  name: Attending Public Meetings
+  pageRef: /pages/instructor-insights/attending-public-meetings
+  parent: e53c3ff8-af65-09bc-0f16-45111c849df9
+  weight: 60
+- identifier: d298e8cc-8c49-ca4b-8be0-63f72132d912
+  name: Drawing from Research and Experience
+  pageRef: /pages/instructor-insights/drawing-from-research-and-experience
+  parent: e53c3ff8-af65-09bc-0f16-45111c849df9
+  weight: 70
+- identifier: 13e96d49-39df-c3b8-e77e-83e1b6bf4c05
+  name: 'Co-Teaching: Offering Students Opposing Views'
+  pageRef: /pages/instructor-insights/co-teaching-offering-students-opposing-views
+  parent: e53c3ff8-af65-09bc-0f16-45111c849df9
+  weight: 80
+- identifier: ff9318e2-d9ab-022b-a3af-d9845aa5f011
+  name: Readings
+  pageRef: /pages/readings
+  weight: 90
+- identifier: 9f328346-e784-d648-bacc-2f6becc2a442
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 100
+- identifier: bffe345b-8320-41e7-f22f-2d38ed180667
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 110
+- identifier: 6e5b8372-4f5e-28b4-a1b4-d75c7fb5687b
+  name: Assignment 1
+  pageRef: /pages/assignments/assignment-1
+  parent: bffe345b-8320-41e7-f22f-2d38ed180667
+  weight: 120
+- identifier: 5a82cbe4-3dab-4a1e-6507-a4ef6fb48521
+  name: Assignment 2
+  pageRef: /pages/assignments/assignment-2
+  parent: bffe345b-8320-41e7-f22f-2d38ed180667
+  weight: 130
+- identifier: f8bf12b3-b367-7a42-7fc8-1bed54b954d5
+  name: Assignment 3
+  pageRef: /pages/assignments/assignment-3
+  parent: bffe345b-8320-41e7-f22f-2d38ed180667
+  weight: 140
+- identifier: 589ab6f9-1d13-f93b-2efa-2d73e8e418f4
+  name: Assignment 4
+  pageRef: /pages/assignments/assignment-4
+  parent: bffe345b-8320-41e7-f22f-2d38ed180667
+  weight: 150

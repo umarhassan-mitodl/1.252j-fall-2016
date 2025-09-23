@@ -1,0 +1,41 @@
+---
+content_type: page
+description: In this section, Frederick Salvucci shares how he selects intersections
+  for students to study.
+draft: false
+layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
+parent_uid: e53c3ff8-af65-09bc-0f16-45111c849df9
+title: Out of the Classroom, Into the City
+uid: c1a47dff-f722-8b6f-fc3f-937641d533ea
+---
+*Assignments in* 1.252J Urban Transportation Planning *take students into the field to observe local transportation patterns. In this section, Frederick Salvucci shares how he selects intersections for students to study, what he hopes students gain from working in mixed groups, and the types of opportunities students have to receive feedback about their work.*
+
+## Focusing on Local Transportation Cases
+
+{{< quote "The point of the field-based assignment is to get students used to thinking about quantities: How many bicycles? How many people in buses? How many people in cars? How many trucks? How many cabs are going down the street? What problems do you observe at that intersection?" "— Frederick Salvucci" >}}
+
+There are typically four assignments in *1.252J Urban Transportation Planning*, and they almost always take students into Boston, Cambridge, and Somerville—places to which they can walk or take the Boston Transit System in order to observe transportation in those areas for themselves, and in some cases, to interview people.
+
+The {{% resource_link 6e5b8372-4f5e-28b4-a1b4-d75c7fb5687b "first assignment" %}} has, for several years, been to observe key street cross sections and to count how much transportation activity of different kinds is going on at specific intersections. The point of the field-based assignment is to get students used to thinking about quantities: How many bicycles? How many people in buses? How many people in cars? How many trucks? How many cabs are going down the street? What problems do you observe at that intersection?
+
+{{< resource abcb4ed1-c5eb-0771-3606-1e5da0b66d53 >}}
+
+View of a main Central Square intersection. (Courtesy of {{% resource_link "6d9fe10e-3640-48a8-8744-8377799ea5dd" "Molly Marshall" %}} on Flickr. License: CC BY-NC.)
+
+## Selecting Intersections
+
+For this assignment, I sometimes select the worst intersections around: the one in Central Square, the intersection of the Boston University Bridge and Commonwealth Avenue, and the intersection of Stuart Street with Dartmouth Street, for example. Other times I select intersections based on an assignment I’m going to do later in the year. For instance, for several years, I was using cases associated with the proposal to extend the MBTA Green Line, and the proposal to tear down McGrath Highway and replace it with a greater intersection. Anticipating that there would be a future assignment on that, I assigned students to look at the intersection of Washington Street and McGrath Highway in Somerville.
+
+In the Fall 2016 iteration of the course, I assigned a lot of intersections along Massachusetts Avenue, from Cambridge City Hall to the Charles River. I assigned groups to recommend ways to improve several key intersections, and to make recommendations for what to do about the whole stretch of road. So, the first counting assignment is not random—it’s based on some relationship to what future assignments will be.
+
+## Working in Mixed Groups to Gain New Perspectives
+
+Usually, students complete two of the four assignments as groups. I try to ensure that each group comprises roughly half civil and environmental engineers and half urban planners, so that students on the same team have different points of view, and hopefully, learn to respect each other and understand how professionals in other fields think. I want them to learn from each other.
+
+## Peer Feedback, Individual Memos, and Composite Feedback Memos: Responding to Students’ Assignments
+
+The other two assignments are individual assignments, but include sessions where they report their findings and recommendations to the group. These sessions are opportunities for ask for questions and critique. Additionally, I write individual feedback, as memos, to every student, and then I create a composite feedback memo in which I select the best ideas from all of the different papers, and put them together into a response to a piece that no one person actually wrote but that captures key ideas developed collectively by the class.

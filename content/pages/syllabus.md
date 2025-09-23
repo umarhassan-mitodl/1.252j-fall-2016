@@ -1,0 +1,105 @@
+---
+content_type: page
+description: This section contains general information about the course.
+learning_resource_types: []
+ocw_type: CourseSection
+title: Syllabus
+uid: 5273b80e-88bf-788a-8bee-0945f8ab94e9
+---
+
+Course Meeting Times
+--------------------
+
+Lecture: 1 session / week, 3 hours / session
+
+Recitation: 1 session / week, 2 hours / session
+
+Prerequisites
+-------------
+
+There are no prerequisites for this course, but permission of the instructor is required.
+
+Course Description
+------------------
+
+This course examines the policy, politics, planning, and engineering of transportation systems in urban areas, with a special focus on the Boston area as a convenient local example which illustrates many of the salient issues that arise. You will explore a broad range of topics that touch on method, policy, process, and design; and you will consider the impact of institutional structure on both process and outcome. Transportation sustainability will be a central theme throughout the term, and you will consider if and how it is possible to resolve the tension between the three E's (environment, economy, and equity). Additionally, you will consider "pattern breaks" that may occur from time to time. The goal is to elicit class discussion, to stimulate your own thinking, and encourage both understanding and challenging of the "conventional wisdom" in transportation planning.
+
+### Context
+
+This course focuses on the North American context, and especially the metropolitan area of Boston as a case study. The cases discussed reflect national and global issues, but have the benefit of immediacy and proximity. YOu will be required to go out and see some examples, and encouraged to pursue more on your own. The general availability of reasonably detailed information on these local cases, as well as Fred's five decade long familiarity with the city and region provides some opportunity to consider longitudinal evolution of planning and policy in the area, to complement the normal "snapshot" understanding of the status quo, and encourages consideration of the risk that "big data" gives us the possibility of observing the present much more intensively, in one or more metropolitan areas, without considering where we have been, where we may be going, and whether we really want to go there.
+
+### Recitations
+
+We will not hold recitations every Tuesday, but rather on selected Tuesdays throughout the semester. Some will be on the days or week that assignments are due, so as to share your work with the class. A few will include additional lecture material. Please note the scheduled Tuesday recitations in your calendar, which are optional, but valuable to your experience.
+
+### Walking Tours
+
+Two walking tours are planned, one featuring highlights of Boston's transportation history, and the other focused on the transportation issues that will be pertinent to Assignment 3, focused on the Everett casino and nearby issues in Charlestown and Sullivan Square. The walking tours are often highlights of the course for students, and it is highly recommended that you attend.
+
+### Public Meetings, Lecutres, and Events
+
+We will share relevant public meetings, hearings, lectures, and other events throughout the semester, and you are also encouraged to attend the periodic {{% resource_link "a049ec6a-dfab-4606-b8ad-f9677b1e8481" "Transportation@MIT" %}} and {{% resource_link "149773e1-e71e-4fa6-92b4-7cb43ea9aa55" "Transportation Club" %}} events.
+
+Grading
+-------
+
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 1: Counting & Observing at Key Intersections
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 2: Re-designing Massachusetts Ave for All
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 3: Assessing the Impacts of Growth in the Lower Mystic
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 4: Planning for Growth in the Lower Mystic
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation (reading responses, class discussion, project presentations)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
