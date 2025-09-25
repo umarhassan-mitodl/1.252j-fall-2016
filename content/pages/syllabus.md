@@ -38,7 +38,7 @@ Two walking tours are planned, one featuring highlights of Boston's transportati
 
 ### Public Meetings, Lecutres, and Events
 
-We will share relevant public meetings, hearings, lectures, and other events throughout the semester, and you are also encouraged to attend the periodic {{% resource_link "a049ec6a-dfab-4606-b8ad-f9677b1e8481" "Transportation@MIT" %}} and {{% resource_link "149773e1-e71e-4fa6-92b4-7cb43ea9aa55" "Transportation Club" %}} events.
+We will share relevant public meetings, hearings, lectures, and other events throughout the semester, and you are also encouraged to attend the periodic [Transportation@MIT](http://transportation.mit.edu/) and [Transportation Club](http://transportclub.mit.edu/) events.
 
 Grading
 -------

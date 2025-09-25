@@ -24,7 +24,7 @@ The {{% resource_link 6e5b8372-4f5e-28b4-a1b4-d75c7fb5687b "first assignment" %}
 
 {{< resource abcb4ed1-c5eb-0771-3606-1e5da0b66d53 >}}
 
-View of a main Central Square intersection. (Courtesy of {{% resource_link "6d9fe10e-3640-48a8-8744-8377799ea5dd" "Molly Marshall" %}} on Flickr. License: CC BY-NC.)
+View of a main Central Square intersection. (Courtesy of [Molly Marshall](https://www.flickr.com/photos/elisharene/2677988412/in/photolist-55DoE1-55Dcpy-kj6Hb2-b8kg68-55zcpz-bhRYrv-dwuDK4-8d5c2q-56ct53-vfC2-595XYE-591NYM-591NqX-595YLo-2hM1F-595YhL-4J75kg-595XTJ-595Yoq-591PjB-56rdrp-7jfp3D-55DhhJ-55Dts9-cF4SMU-9nWZjg-b8Q) on Flickr. License: CC BY-NC.)
 
 ## Selecting Intersections
 
