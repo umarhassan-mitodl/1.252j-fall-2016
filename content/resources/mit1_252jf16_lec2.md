@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-252j-urban-transportation-planning-fall-2016/471d2af3ae7633e90189cb81599d1445_MIT1_252JF16_Lec2.pdf
 file_size: 1252979
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
