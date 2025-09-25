@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-252j-urban-transportation-planning-fall-2016/4b2d6fb696a33b08c5768653fb9e1a07_South_end-compressor.jpg
 file_size: 103707
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

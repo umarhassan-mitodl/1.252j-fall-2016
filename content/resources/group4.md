@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-252j-urban-transportation-planning-fall-2016/647256694d3d161e2c0803970d9c10c8_Group4.JPG
 file_size: 48241
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: 'Group 4: Cambridge St at Prospect St, Hampshire St at Prospect St, Hampshire
     St at Cambridge St'
