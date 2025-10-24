@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-252j-urban-transportation-planning-fall-2016/cc7d23831fd13c1d286d15ac64cdba9b_1-252JF16-lecturenotes.jpg
 file_size: 49118
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Aerial view of Boston.
   credit: Courtesy of Thomas Hawk on Flickr. CC BY-NC.

@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-252j-urban-transportation-planning-fall-2016/9af582a801b22d7e19d79881b5a1b49a_Central%20Square.jpg
 file_size: 35417
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: First Baptist Church in Cambridge is close to the Western Ave. at Franklin
     St. intersection.

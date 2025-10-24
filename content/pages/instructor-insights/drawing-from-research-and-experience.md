@@ -4,8 +4,6 @@ description: 'In this section, Frederick Salvucci shares the readings in the 1.2
   Urban Transportation Planning are shaped by research, and how the work students
   do in the course, in turn, shape his research agenda. He also discusses how he draws
   on his own experience working in the field to teach the course.   '
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
