@@ -10,7 +10,7 @@ uid: 9f328346-e784-d648-bacc-2f6becc2a442
 
 {{< resource cc7d2383-1fd1-3c1d-286d-15ac64cdba9b >}}  
 
-Courtesy of [Thomas Hawk](https://flic.kr/p/pbTFjL) on Flickr. CC BY-NC.
+Courtesy of {{% resource_link "83510234-954b-49e0-b49b-4da3199fc6a7" "Thomas Hawk" %}} on Flickr. CC BY-NC.
 
 Below are selected lecture slides from the 2016 iteration of the course.
 
